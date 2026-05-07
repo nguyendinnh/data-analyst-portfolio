@@ -1,6 +1,6 @@
 # Data Analyst Portfolio — Nguyen Dinh
 
-Applied Mathematics student at UC Riverside (Class of 2027) building a career in data analytics. This repo contains six end-to-end analysis projects covering A/B testing, hypothesis testing, customer segmentation, and time-series analysis on real-world datasets ranging from 200 to 18,000+ rows.
+Applied Mathematics student at UC Riverside (Class of 2027) building a career in data analytics. This repo contains seven end-to-end analysis projects covering A/B testing, hypothesis testing, customer segmentation, time-series analysis, and website performance — using real-world datasets ranging from 200 to 18,000+ rows.
 
 📍 Santa Ana, CA | 📧 23ndinh@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/nguyen-dinh-199216292/)
 
@@ -34,7 +34,7 @@ Applied Mathematics student at UC Riverside (Class of 2027) building a career in
 **Method:** Sample size calculator, pivot table aggregation, significance calculator
 **Finding:** Test group achieved 19% open rate vs. 18% control — statistically significant at 98% confidence.
 **Recommendation:** Adopt the new subject line. Identified 5 confounding factors (selection bias, send time, device type, audience overlap, novelty effect) for the team to control in future tests.
-📁 [`Milestone-AB-Testing-H_M.xlsx`](./Milestone-AB-Testing-H_M^0_Nguyen_Dinh.xlsx)
+📁 [`Milestone-AB-Testing-H_0M_Nguyen_Dinh.xlsx`](./Milestone-AB-Testing-H_0M_Nguyen_Dinh.xlsx)
 
 ---
 
@@ -58,7 +58,7 @@ Applied Mathematics student at UC Riverside (Class of 2027) building a career in
 **Method:** Data type classification, sorting/filtering, distribution analysis
 **Findings:** View distribution is heavily right-skewed; the average (~1.96M views) is misleading because a small number of viral videos pull the mean up. A 2M-view video is closer to typical than exceptional.
 **Recommendation:** Content strategy should prioritize category fit, publish timing, and engagement rate over raw view targets.
-📁 [`Milestone-YouTube-Trending-Analysis_.xlsx`](./Milestone-YouTube-Trending-Analysis_Nguyen_Dinh.xlsx)
+📁 [`Milestone-YouTube-Trending-Analysis_Nguyen_Dinh.xlsx`](./Milestone-YouTube-Trending-Analysis_Nguyen_Dinh.xlsx)
 
 ---
 
@@ -69,6 +69,7 @@ Applied Mathematics student at UC Riverside (Class of 2027) building a career in
 **Findings:**
 - 26.7% of customers most frequently buy low-maintenance plants
 - Pet/child safety is the top purchase driver for 50% of "once a year" buyers vs. only 31% of "rarely" buyers — occasional buyers care more about safety than frequent buyers
+
 **Recommendation:** Emphasize low-maintenance and pet-safe attributes in marketing, especially in campaigns targeting infrequent buyers. Delivered as a written stakeholder memo.
 📁 [`Milestone-Terracotta_Nguyen_Dinh.xlsx`](./Milestone-Terracotta_Nguyen_Dinh.xlsx)
 
@@ -80,6 +81,15 @@ Applied Mathematics student at UC Riverside (Class of 2027) building a career in
 **Method:** Line charts, seasonality analysis, hypothesis validation with secondary research
 **Findings:** Both sports show flat baseline interest punctuated by 4-year Olympic spikes, with February being the peak month. Spike magnitude varies by host country and team performance.
 📁 [`Milestone-Winter-Sports-Interest-Analysis_Nguyen_Dinh.xlsx`](./Milestone-Winter-Sports-Interest-Analysis_Nguyen_Dinh.xlsx)
+
+---
+
+### 7. Grammys Website Performance Analysis
+**Question:** How is the Grammys website performing across user engagement metrics?
+**Dataset:** Website performance data
+**Method:** Performance metric analysis using Excel formulas and pivot tables
+**Outcome:** Identified key engagement patterns and opportunities to improve site performance.
+📁 [`Project-Analyzing-Website-Performance-Grammys_Nguyen_Dinh.xlsx`](./Project-Analyzing-Website-Performance-Grammys_Nguyen_Dinh.xlsx)
 
 ---
 
